@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.black{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 0 20px 0;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 0 20px 0;
+}
+
+.good  {
+    width: 250px;
+}
+
+.canvas{
+    border: 2px solid black;
+    position: relative;
+    left: 120px;
+}
+
+
+.top>.color{
+    margin: 10px;
+}
+
+.btn{
+    width: 250px;
+}
+
+#ee{
+    font-size: x-large;
+    text-align: center;
+    color: burlywood;
+
+}
